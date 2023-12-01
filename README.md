@@ -1,6 +1,6 @@
-https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif
 
-<h1 align="center">Hi 👋, I'm M. Faizan Faheem</h1>
+<h1 align="center">Hi 👋, I'm M. Faizan Faheem</h1>![e426702edf874b181aced1e2fa5c6cde](https://github.com/MuhammadFaizanFaheem/MuhammadFaizanFaheem/assets/152384280/ed5c1575-f88a-4f49-9a89-95f1c40fb631)
+
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Video converter**
